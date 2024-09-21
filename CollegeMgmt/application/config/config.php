@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://CTPLocalLB-1975776224.ap-southeast-2.elb.amazonaws.com/CollegeMgmt/';
+$config['base_url'] = 'http://54.206.68.20/CollegeMgmt/';
 
 /*
 |--------------------------------------------------------------------------
