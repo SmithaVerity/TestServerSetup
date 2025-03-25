@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'smithadb.mysql.database.azure.com',
-	'username' => 'smithauser',
-	'password' => 'Verity@123',
+	'hostname' => 'localhost',
+	'username' => 'ubuntu',
+	'password' => 'Ubuntu@123',
 	'database' => 'college_mgmt',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
