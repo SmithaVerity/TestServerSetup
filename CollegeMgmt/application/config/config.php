@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://3.105.163.192/CollegeMgmt/';
+$config['base_url'] = 'http://localdb-714317443.ap-southeast-2.elb.amazonaws.com/CollegeMgmt/';
 
 /*
 |--------------------------------------------------------------------------
